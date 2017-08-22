@@ -1,0 +1,30 @@
+{
+  "name": "generator-h5app",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "files": [
+    "generators"
+  ],
+  "version": "1.0.0",
+  "description": "npm install -g yo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wildfirecode/HTML5-Game-App-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wildfirecode/HTML5-Game-App-Generator/issues"
+  },
+  "homepage": "https://github.com/wildfirecode/HTML5-Game-App-Generator#readme",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "yeoman-generator": "^1.1.1",
+    "yosay": "^2.0.1"
+  }
+}
